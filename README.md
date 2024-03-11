@@ -7,11 +7,17 @@ Create a Chainlit app
 
 # Homework 1 Part 2: 
 Implementing and analyzing Custom Loss Functions in PyTorch
+
 Implementing Custom Activation Functions in PyTorch
+
 Deriving and Understanding the Sigmoid Function
+
 Connecting Sigmoid and Softmax Functions
+
 Understanding Logits and Log Odds
+
 Understanding Backpropagation and the Chain Rule
+
 Implementing Custom Optimizers in PyTorch
 
 # Homework 2 Part 1: 
