@@ -27,3 +27,16 @@ Objective: Predict data scientist salaries using Kaggle's Data Science Salary da
 ## Homework 2 Part 2: 
 Implement the whole transformer step by step.
 
+## Homework 3
+
+Building a Tokenizer for Armenian Language
+
+## Homework 4
+
+Fine-Tuning BERT using HuggingFace libraries
+
+## Homework 5
+
+Performing Supervised Fine Tuning (SFT) on pre-trained LLMs (specifically mistralai/Mistral-7B-v0.1 model). HuggingFace libraries are going to be used to load, quantize and train an LLM using QLoRA: A technique for memory-efficient training of very large models.
+
+
